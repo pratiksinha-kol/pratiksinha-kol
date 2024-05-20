@@ -1,10 +1,13 @@
-### Hi there everyone...👋
+<!--- ### Hi there everyone...👋 -->
 
-<!-- Not now ![Banner](https://github.com/pratiksinha-kol/pratiksinha-kol/assets/125117631/bd387b99-dc09-4f56-b226-2d85a3963aed) -->
+<p align="center"><a href="https://github.com/pratiksinha-kol"><img width="110%" alt="Hello, I'm Pratik Sinha. I love life easier via automation!" src="./Pratik-Sinha-github-header-image.png" /></a></p>
 
-<!--- <iframe>https://www.canva.com/design/DAGFv2JK1vk/hAihJrdMLBQyKr1zJ5dahQ/watch</iframe> -->
+<br />
 
-![Header](./Pratik-Sinha-github-header-image.png)
+> ***“Success is no accident. It is hard work, perseverance, learning, studying, sacrifice and most of all, love of what you are doing or learning to do.”***
+***– Pele***
+
+<!--- ![Header](./Pratik-Sinha-github-header-image.png) -->
 
 <!--
 **pratiksinha-kol/pratiksinha-kol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -20,8 +23,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+**About me**
 
-![Pratik's GitHub stats](https://github-readme-stats.vercel.app/api?username=pratiksinha-kol&show_icons=true&theme=highcontrast) 
+- Achieved 4 x AWS certification
+- Worked in Customer support role for over 6 years
+- Expertised in AWS, Linux, Docker, Terraform, JSON
+- 💬 Drop your queries [here](https://github.com/pratiksinha-kol/pratiksinha-kol/issues)  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pratiksinha-kol&hide_progress=true)
+
+| ![Pratik's GitHub stats](https://github-readme-stats.vercel.app/api?username=pratiksinha-kol&show_icons=true&theme=highcontrast) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pratiksinha-kol&hide_progress=true) |
+| ------------- | ------------- |
 

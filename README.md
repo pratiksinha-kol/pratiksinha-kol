@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi there everyone...👋
+
+![Banner](https://github.com/pratiksinha-kol/pratiksinha-kol/assets/125117631/bd387b99-dc09-4f56-b226-2d85a3963aed)
+
+<!--- <iframe>https://www.canva.com/design/DAGFv2JK1vk/hAihJrdMLBQyKr1zJ5dahQ/watch</iframe> -->
+
 
 <!--
 **pratiksinha-kol/pratiksinha-kol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
